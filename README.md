@@ -1,4 +1,5 @@
-# 리액트 보일러 플레이트 with vite, tailwind, storybook, redux
+# 리액트 보일러 플레이트 
+with vite, tailwind, storybook, redux
 
 
 ## file folder
